@@ -10,6 +10,10 @@ This native mac menubar application is designed to help you practice mindful bre
 - **Ambient Background Sounds**: Experience calming ambient sounds during breath holds, generated using the ElevenLabs SFX API.
 - **High-Quality Voice Guidance**: Clear and relaxing voice instructions powered by ElevenLabs Voice API.
 
+## Demo
+
+https://github.com/user-attachments/assets/1a8262f1-5c45-4314-a6be-410c7da20b16
+
 ## Installation
 
 ### Requirements
