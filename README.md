@@ -1,5 +1,3 @@
-![breathing](https://github.com/user-attachments/assets/d32729e4-12ed-4ff0-8cea-1e14894d4519)
-
 # Guided Breathing App
 
 This native mac menubar application is designed to help you practice mindful breathing exercises, enhanced with soothing ambient sounds and voice guidance.
